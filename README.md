@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<!--
-**P-ADITYA15/P-ADITYA15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate MERN stack Developer</h3>
+<img align="right" alt="coding" width=800 height=600 src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p-aditya15&label=Profile%20views&color=0e75b6&style=flat" alt="p-aditya15" /> </p>
+<p align="left"> <img src="https://i.gifer.com/1Cr1.gif" alt="p-aditya15" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-aditya15&" alt="p-aditya15" /></p>
 
--->
+
