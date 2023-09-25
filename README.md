@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width=800 height=600 src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==">
 
 <p align="left"> <img src="https://i.gifer.com/1Cr1.gif" alt="p-aditya15" /> </p>
-<br>
+<br><br><br>
 
 - 🌱 I’m currently learning **Data Science**
 
