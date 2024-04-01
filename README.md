@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-p-b8713a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-p-b8713a22a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-p-b8713a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-p-b8713a22a/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100008756131230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100008756131230" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya__sony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya__sony" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/adityasony967/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityasony967/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityasony967/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityasony967/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adityasony967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adityasony967" height="30" width="40" /></a>
 <a href="https://discord.gg/vizxaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vizxaditya" height="30" width="40" /></a>
 </p>
