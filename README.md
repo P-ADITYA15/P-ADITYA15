@@ -6,7 +6,7 @@
 <h3 align="center">A passionate MERN stack Developer</h3>
 <img align="right" alt="coding" width=800 height=600 src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif">
 
-<p align="left"> <img src="https://i.gifer.com/1Cr1.gif" alt="p-aditya15" /> </p>
+
 
 
 - 🌱 I’m currently learning **Data Science**
