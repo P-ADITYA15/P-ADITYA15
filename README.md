@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adityasony967@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/PADITYA](https://tinyurl.com/PADITYA)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GcCJM2g7lBx2zCbwZvR6t6S0DW-OIfeJ/view?usp=sharing)
 
 - ⚡ Fun fact **I do Everything , literally everything**
 
